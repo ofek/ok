@@ -1,0 +1,10 @@
+*.log
+*.pyc
+/.cache
+/.coverage
+/.idea
+/ok.egg-info
+/build
+/dist
+/docs/build
+/wheelhouse
